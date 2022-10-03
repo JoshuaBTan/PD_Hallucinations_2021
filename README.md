@@ -1,2 +1,2 @@
-# Honours2021_PD_Hallucinations
-Comparing PD patients with and without hallucinations using gradient analysis
+# PD Hallucinations
+Comparing PD patients with and without hallucinations using dimensionality reduction techniques
